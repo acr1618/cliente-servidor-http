@@ -1,6 +1,6 @@
 # Cliente/servidor HTTP
 
-Trabalho prático da disciplina _Redes de Computadores_ parte do curso de mestrado em Ciência da Computação da UFSJ. A proposta do trabalho é a codificação de um navegador modo texto e de um servidor web. 
+Trabalho prático da disciplina _Redes de Computadores_ parte do curso de graduação em Ciência da Computação da UFSJ. A proposta do trabalho é a codificação de um navegador modo texto e de um servidor web. 
 O objetivo é entender uso de socket e do método get do _HTTP_
 
 **Aluno:** [Allyson da Cruz Rodrigues]
