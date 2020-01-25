@@ -11,14 +11,14 @@ O objetivo é entender uso de socket e do método get do _HTTP_
 O programa se conecta ao sevidor e realiza uma requisção de um arquivo (_GET_). Caso seja encontrado, ele salva este arquivo na sua pasta raiz. A porta 80 é utilizada como padrão caso o argumento não seja passado.
 
 ```sh
-$ ./ernesto.py enderecodo_arquivo porta
+$ ./ernesto.py endereco_do_arquivo porta
 ```
 ### Servidor
 Responde a requisições _GET_, devolvendo a mensagem de status da requisao 200 OK ou 404 - Not found.
 A porta 80 é utilizada como padrão caso o argumento não seja passado.
 
 ```sh
-$ python3 servidor.py diretorio porta
+$ python3 serve_serve.py diretorio porta
 ```
 
 ## Licença
